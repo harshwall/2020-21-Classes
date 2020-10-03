@@ -10,4 +10,4 @@
 
 - [Kunal Sevkani](https://github.com/kunalmnnit)
 - Shubham Damani
-- [Harshit Agarwal](https://github.com/harshwall)
+- [Harshit Agarwall](https://github.com/harshwall)
