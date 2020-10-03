@@ -12,7 +12,7 @@ The event comprises of 3 rounds
 
 * Team Size: 3
 
-<strong>NOTE :</strong> There will be an abstract submission before the first rounnd. This is compulsory for participation in event.
+<strong>NOTE :</strong> There will be an abstract submission before the first round. This is compulsory for participation in event.
 
 * [Abstract Submission Guidelines](ABSTRACT-SUBMISSION-GUIDELINES-2018.pdf)
 
